@@ -11,6 +11,7 @@
         <Label x:Name="lblStampa" Content="STAMPA QUI" HorizontalAlignment="Left" Margin="313,105,0,0" VerticalAlignment="Top"/>
         <TextBox x:Name="txtTesto" HorizontalAlignment="Left" Margin="199,184,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <Label Content="arrivederci" HorizontalAlignment="Left" Margin="391,184,0,0" VerticalAlignment="Top"/>
+        <Label Content="ben tornato" HorizontalAlignment="Left" Margin="259,262,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
